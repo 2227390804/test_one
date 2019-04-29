@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /test1
+  port: 8017
+  tomcat:
+    uri-encoding: utf-8
